@@ -1,0 +1,84 @@
+#btn{
+     background-color: rgb(44, 44, 163);
+}
+li{
+    list-style-type: none;
+    margin: 10px;
+    font-size: 14px;
+    color:gray;
+    /* color: rgb(107, 107, 107); */
+    font-weight: 500;
+}
+#lorem{
+    font-size: 14px;
+    font-weight: 500;
+    
+}
+/* .baner{
+    width: 2000px;
+} */
+#m{
+    width: 380px;
+    height: 260px;
+}
+#bb{
+    background-color: rgb(219, 234, 255);
+   
+}
+.h3{
+    font-weight: 600;
+}
+/* #bg{
+   /* box-shadow: 2px 2px 5px gray,10px 12px 8px gray; */
+/* } */ */
+p{
+    color: gray;
+    font-weight: 600;
+    font-size: 13px;
+}
+#mm{
+    width: 500px;
+    height: 300px;
+}
+#img{
+    border-radius:100%;
+    width: 150px;
+}
+h5{
+    color: black;
+}
+#h6{
+   font-size: 14px;
+}
+#prim{
+    /* display: flex;
+    justify-content: space-between; */
+    background-color: rgb(62, 123, 238);
+    padding: 30px;
+}
+#btn1{
+    border: 1px solid white;
+    color: white;
+    background:rgb(62, 123, 238) ;
+    padding: 10px;
+}
+#lli{
+    color: white;
+}
+#lu{
+    background-color: rgb(62, 123, 238);
+
+}
+#fl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.con{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+    height: 100vh;
+}
